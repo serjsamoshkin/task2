@@ -3,7 +3,7 @@ package controller;
 import java.util.Scanner;
 
 /**
- * Used to get input commands
+ * Used to get input commands from console
  */
 public class InputController {
 

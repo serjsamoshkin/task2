@@ -9,7 +9,7 @@ import view.ConsoleView;
 import view.MessStack;
 
 /**
- * Main [task1] Controller
+ * Main [task2] Controller
  */
 public class MainController {
 
@@ -23,9 +23,13 @@ public class MainController {
 
     public void Start(){
 
-        view.display(MessStack.GREETING);
+
 
         Game game = new Game();
+
+        view.display(MessStack.GREETING,
+                Integer.toString(game.getMinDiapason()),
+                Integer.toString(game.getMaxDiapason()));
 
         CheckValueStatus status = null;
 
@@ -78,6 +82,7 @@ public class MainController {
                                 Integer.toString(game.getMinDiapason()),
                                 Integer.toString(game.getMaxDiapason()));
                     }
+                    view.display(MessStack.valueOf(status.name()));
                     view.display(MessStack.NEXT_MOVE);
                     break;
                 case OUT_OF_MIN_DIAPASON:

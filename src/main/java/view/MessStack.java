@@ -1,7 +1,7 @@
 package view;
 
 /**
- * Contains variants of answers to the user
+ * Contains variants of output to the user
  */
 public enum MessStack {
 

@@ -3,11 +3,11 @@ package model;
 import util.MathUtil;
 import util.PropertiesReader;
 
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.InputStream;
 import java.util.*;
 
+/**
+ * An object with simple-Java game mechanisms.
+ */
 public class Game {
     /*
     Contains current game diapason value.

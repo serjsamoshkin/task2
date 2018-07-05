@@ -1,7 +1,8 @@
 package view;
 
 /**
- *  Contains output methods to interact with the user
+ *  Contains output methods to interact with the user.
+ *  Uses console for output.
  */
 public class ConsoleView {
 

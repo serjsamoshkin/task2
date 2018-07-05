@@ -1,5 +1,8 @@
 package view;
 
+/**
+ * Contains console output color cods.
+ */
 public enum ConsolOutputColor {
     ANSI_RESET("\u001B[0m"),
     ANSI_BLACK("\u001B[30m"),

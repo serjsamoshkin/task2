@@ -1,5 +1,8 @@
 package model;
 
+/**
+ * Uses for controlling gaming process
+ */
 public enum CheckValueStatus {
     OUT_OF_MIN_DIAPASON,
     INPUT_VALUE_LESS,
