@@ -1,4 +1,4 @@
-package view;
+package ua.tests.task2.view;
 
 /**
  * Contains console output color cods.

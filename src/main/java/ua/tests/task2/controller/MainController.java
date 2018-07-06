@@ -1,12 +1,12 @@
-package controller;
+package ua.tests.task2.controller;
 
-import model.CheckValueStatus;
-import model.Game;
-import model.GameIsEndException;
-import model.GameMode;
-import view.ConsolOutputColor;
-import view.ConsoleView;
-import view.MessStack;
+import ua.tests.task2.model.CheckValueStatus;
+import ua.tests.task2.model.Game;
+import ua.tests.task2.model.GameIsEndException;
+import ua.tests.task2.model.GameMode;
+import ua.tests.task2.view.ConsolOutputColor;
+import ua.tests.task2.view.ConsoleView;
+import ua.tests.task2.view.MessStack;
 
 /**
  * Main [task2] Controller

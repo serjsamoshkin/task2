@@ -1,4 +1,4 @@
-package view;
+package ua.tests.task2.view;
 
 /**
  *  Contains output methods to interact with the user.

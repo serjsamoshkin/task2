@@ -1,4 +1,4 @@
-package util;
+package ua.tests.task2.util;
 
 /**
  * Contains math functions for Game

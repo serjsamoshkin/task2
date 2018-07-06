@@ -1,4 +1,4 @@
-package controller;
+package ua.tests.task2.controller;
 
 import java.util.Scanner;
 

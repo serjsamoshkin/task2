@@ -1,4 +1,4 @@
-package model;
+package ua.tests.task2.model;
 
 /**
  * LIGHT mode get tips for user with current min/max diapasons.

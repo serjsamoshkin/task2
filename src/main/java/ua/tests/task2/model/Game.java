@@ -1,7 +1,7 @@
-package model;
+package ua.tests.task2.model;
 
-import util.MathUtil;
-import util.PropertiesReader;
+import ua.tests.task2.util.MathUtil;
+import ua.tests.task2.util.PropertiesReader;
 
 import java.util.*;
 

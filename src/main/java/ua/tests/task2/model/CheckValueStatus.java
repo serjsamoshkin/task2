@@ -1,4 +1,4 @@
-package model;
+package ua.tests.task2.model;
 
 /**
  * Uses for controlling gaming process
